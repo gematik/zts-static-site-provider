@@ -1,0 +1,1 @@
+# zts-static-site-provider
