@@ -1,6 +1,12 @@
 <img align="right" width="250" height="47" src="https://raw.githubusercontent.com/gematik/gematik.github.io/master/Gematik_Logo_Flag_With_Background.png" /> <br />     
 
-# Release static_site_provider
+# Release Notes
+
+## 1.0.11 (2026-09)
+
+### changed
+
+- Upgraded base Docker Image to Nginx 1.31.5
 
 ## 1.0.10 (2026-08)
 

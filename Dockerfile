@@ -1,4 +1,4 @@
-FROM nginx:1.31.3-alpine3.24-slim@sha256:45b82ed5f285b90d63df07ba70430fdd8f25624b416617d9e6dc93412b2006dc
+FROM nginx:1.31.5-alpine3.24-slim@sha256:ac8c92d192f5d66410fae6fbb3addac897c3bb690e221303588e3b32373972c1
 
 # The STOPSIGNAL instruction sets the system call signal that will be sent to the container to exit
 # SIGTERM = 15 - https://de.wikipedia.org/wiki/Signal_(Unix)
