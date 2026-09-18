@@ -2,6 +2,12 @@
 
 # Release Notes
 
+## 1.0.12 (2026-09)
+
+### changed
+
+- Upgraded base Docker Image to Nginx 1.31.6
+
 ## 1.0.11 (2026-09)
 
 ### changed
