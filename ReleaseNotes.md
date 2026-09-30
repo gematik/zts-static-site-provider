@@ -2,6 +2,12 @@
 
 # Release Notes
 
+## 1.0.13 (2026-09)
+
+### changed
+
+- Upgraded base Docker Image
+
 ## 1.0.12 (2026-09)
 
 ### changed
