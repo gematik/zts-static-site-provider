@@ -2,6 +2,22 @@
 
 # Release Notes
 
+## 1.0.15 (2026-11)
+
+### changed 
+
+- Updated Base Image
+
+## 1.0.14 (2026-10)
+
+### changed
+
+- tightened Content-Security-Policy
+
+### fixed
+
+- fixed OSPO resources links
+
 ## 1.0.13 (2026-09)
 
 ### changed

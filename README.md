@@ -70,7 +70,7 @@ The Application runs as an Nginx Server, which requires some environment variabl
 - CSP_HOSTNAME, the list of hostnames, separated by a white space, that should be used with the Content Security Policy
 
 ## Contributing
-If you want to contribute, please check our [CONTRIBUTING.md](./CONTRIBUTING.md).
+If you want to contribute, please check our [CONTRIBUTING.md](./.github/CONTRIBUTING.md).
 
 ## License
 
