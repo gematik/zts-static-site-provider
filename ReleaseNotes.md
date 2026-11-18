@@ -7,6 +7,7 @@
 ### changed 
 
 - Updated Base Image
+- Mitigration of http2 CVE
 
 ## 1.0.14 (2026-10)
 
